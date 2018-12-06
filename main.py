@@ -1,6 +1,6 @@
 # coding: utf-8
 
-# Função que verifica a possibilidade de saque com as cédulas disponíveis. Essa função dentro de uma classe
+# Função que verifica a possibilidade de saque com as cédulas disponíveis
 
 def withdrawal_verify(value,bills):
     
